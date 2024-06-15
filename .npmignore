@@ -1,3 +1,6 @@
+tests
+.eslintrc
+.travis.yml
 node_modules/
 *.log
 docs
